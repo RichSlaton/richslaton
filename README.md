@@ -1,5 +1,5 @@
 
-### Hi there, I'm Rich - aka [Darby] [website] <img src="https://diginess.ca/content/uploads/2020/02/waving_hand_sign_1024.gif" width="30px">
+### Hi there, I'm Rich - aka [Darby] <img src="https://diginess.ca/content/uploads/2020/02/waving_hand_sign_1024.gif" width="30px">
 
 ### I'm a Husband, Developer, and Artist.
 
