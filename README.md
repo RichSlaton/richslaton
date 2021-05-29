@@ -40,7 +40,6 @@ Most of our time over Zoom was from 5 am till 8 am. I have spent 100's of hours 
   
 [![Darby's GitHub stats](https://github-readme-stats.vercel.app/api?username=richslaton)](https://github.com/richslaton/github-readme-stats)
 
-
 </details>
 
 <br />
