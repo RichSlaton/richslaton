@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Rich - aka [Darby] <img src="https://diginess.ca/content/uploads/2020/02/waving_hand_sign_1024.gif" width="30px">
 
-### I'm a Husband, Developer, and Artist.
+### I'm a Husband, Developer, & Artist.
 
 - 🔭 I’m currently working on finding a software dev company that shares the same values as I.
 - 🌱 I’m currently learning data strutures & algorithms- I am creating visual metaphors for jr devs.
