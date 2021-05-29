@@ -1,7 +1,35 @@
-<svg id="Linkedin" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><g id="original"><path fill="#0076b2" d="M116,3H12a8.91,8.91,0,0,0-9,8.8V116.22A8.91,8.91,0,0,0,12,125H116a8.93,8.93,0,0,0,9-8.81V11.77A8.93,8.93,0,0,0,116,3Z"/><path fill="#fff" d="M21.06,48.73H39.17V107H21.06Zm9.06-29a10.5,10.5,0,1,1-10.5,10.49,10.5,10.5,0,0,1,10.5-10.49"/><path fill="#fff" d="M50.53,48.73H67.89v8h.24c2.42-4.58,8.32-9.41,17.13-9.41C103.6,47.28,107,59.35,107,75v32H88.89V78.65c0-6.75-.12-15.44-9.41-15.44s-10.87,7.36-10.87,15V107H50.53Z"/></g></svg>
 
-### Hi there 👋
+### Hi there, I'm Rich - aka [Darby] [website] <img src="https://diginess.ca/content/uploads/2020/02/waving_hand_sign_1024.gif" width="30px">
 
+## I'm a Husband, Developer, and Artist.
 
 - 🔭 I’m currently working on finding a software dev company that shares the same values as I.
 - 🌱 I’m currently learning data strutures & algorithms- I am creating visual metaphors for jr devs.
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+
+
+### Connect with me on Linkedin:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/darbyslaton//)  
+
+<br />
+
+### Languages and Tools:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" hieght="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  alt="HTML5 logo" width="50" hieght="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  alt="CSS3 logo" width="50" hieght="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"  alt="bootstrap logo" width="50" hieght="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/devicon/devicon-original.svg"  alt="Developer Logo" width="50" hieght="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  alt="Git logo" width="50" hieght="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg"  alt="Google Logo" width="50" hieght="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"  alt="Hquery Logo" width="50" hieght="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"  alt="Node Logo" width="50" hieght="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  alt="Node Package Manager Logo" width="50" hieght="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"  alt="PostGreSQL logo" width="50" hieght="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  alt="Redux Logo" width="50" hieght="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"  alt="VSCode Logo" width="50" hieght="50"/>
+
+<br />
+<br />
+
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+[![Darby's GitHub stats](https://github-readme-stats.vercel.app/api?username=richslaton)](https://github.com/richslaton/github-readme-stats)
+
+
+</details>
+
+<br />
+
