@@ -8,16 +8,29 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
-### From Painter To Hacker
-My journey on this quest of the digital world began with a love for electronics. If you were to give me a choice between Radio Shack and Toys R Us, hands down, I would pick Radio Shack. I also had a great love for animation and all things art. 
+### HOW I WENT FROM A FULL-TIME MOTIVATIONAL SPEAKER TO A FULL-STACK ENGINEER
 
-My first computer was a Commodore 64 at the age of 12. You could write your program, load software from a cassette or floppy, or stick a cartridge into the back. As a family, we would create our games. However, I had some knowledge early on with computing. I found myself pursuing my art (and the dream of working for Disney) more due to some false beliefs of not being good at Math, and therefore I could never get good at computers.
+I became a speaker in 2013. I've spoken about over 1,000 events over the past eight years. I knew that I had to build my business online to scale my business. Back then, I would often tell others that I wasn't a techie and more of the artist type. 
 
-Fast forward, I got into business for myself. I abandoned my art due to this fact. I didn't want to be a poor artist. I got into self-help, studied leadership, communication, and had a spiritual transformation. I became a full-time speaker and life coach. I had spoken about over 1,000 events over the past six years. I needed a website done, and the programmer built it and disappeared. I could look for someone else, or I could empower myself with learning some design and the basics of CSS and HTML to tweak it to where it looked professional. 
+Anyone an entrepreneur knows unless you have a pile of cashing lying around, you have to bootstrap everything. 
 
-Covid hit the world. The pandemic shut down the world, and as well all of my speaking engagements. I did some soul searching, and several people asked me to have ever considered learning to code. At first, I had my reservations and had a friend who was a team-lead and a self-taught developer "take me under his wing." 
+The rabbit hole of coding started with my desire to build online courses. First, I had to learn LMS, configure third-party apps for my projects, and discovered I had a knack for it. Fortunately, I was red-pilled into the Matrix when I needed a website created, and the programmer built it and disappeared. At first, it was a shock, anger, and once I "cooled my jets," I started looking for people to help me tweak my website, but I found myself frustrated because I couldn't find someone who could express my vision. 
 
-Most of our time over Zoom was from 5 am till 8 am. I have spent 100's of hours working one-on-one with Ryan, and he is still mentoring me. My creativity had manifested in a new way when I got rid of my child's limitations. I could now mix my love for art, animation, and design combined with the world of programming. I am a designer and a developer. I love being able to do full-stack development and create something from words. 
+Now I was convinced that I had to do it myself, so in 2015 I decided that learning some design and the basics of CSS and HTML would empower me and help create what I envisioned. It was like magic to me and felt so empowering. 
+
+My studies started with stumbling upon UI design principles through an online course and started implementing what I learned to my W.P. site. 
+The death blow to my motivational speaking happened in 2020. But, unfortunately, my story isn't unique as the whole world came to a screeching halt covid.
+I did some soul searching about how financially since my speaking business was shut down. I would provide for my family.
+2020 was enlightening to me. 
+
+I had several friends who knew I built websites with W.P. and asked if I ever thought about broadening my skill set and learned how to code. 
+At first, I had my reservations, but what do I have to lose? So I approached this as a full-time job and immersed myself into this world deeper. What would be the worst thing that could happen? I can add another skill set to my toolbelt.
+
+I have a friend who was a developer who "took me under his wing," and after 300 hours of working one-on-one, I discovered that my brain enjoyed the workout. In addition, I found that coding was an extension of my creativity.
+
+I love being able to do full-stack development in designing a UI or developing solutions on the backend. 
+
+If you are looking for a developer for your company with my skill set or need some help on your project, let's set up a call and see if we would be a good fit. Email me at rdarbyslaton@gmail.com.
 
 
 
