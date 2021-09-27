@@ -29,7 +29,8 @@ Then I do a deep dive into your users' worlds and their needs, wants, and pains.
 
 My past work experiences make me the designer and the man I am today. 
 Over the past eight years, I have been a full-time entrepreneur. 
-I have been speaking full-time, creating workshops, coaching creative entrepreneurs, and developing online courses since 2013.
+I have been speaking full-time, creating workshops, coaching creative entrepreneurs, 
+and developing online courses since 2013.
 
 I have studied business, branding, advertising, design, copywriting, 
 illustration, front-end development. I stumbled upon UX in 2018, 
