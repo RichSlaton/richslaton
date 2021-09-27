@@ -1,36 +1,32 @@
 
-### Hi there, I'm Rich - aka [Darby] <img src="https://diginess.ca/content/uploads/2020/02/waving_hand_sign_1024.gif" width="30px">
+### Hi there, I'm Rich - aka [Darby] 
 
 ### I'm a Husband, Developer, & Artist.
 
-- 🔭 I’m currently working on finding a software dev company that shares the same values as I.
-- 🌱 I’m currently learning data strutures & algorithms- I am creating visual metaphors for jr devs.
+- 🔭 I’m currently working on finding a tech company/design agency that shares the same values as I.
+- 🌱 I’m currently studying ui development
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute to Open Source projects
 
-### HOW I WENT FROM A FULL-TIME MOTIVATIONAL SPEAKER TO A FULL-STACK ENGINEER
+Did you know that your brand identity plays a massive role in your customer experience?
 
-I became a speaker in 2013. I've spoken about over 1,000 events over the past eight years. I knew that I had to build my business online to scale my business. Back then, I would often tell others that I wasn't a techie and more of the artist type. 
+I am a UX/UI Designer-Developer and storyteller who loves working with companies and solopreneurs who aren't afraid to live out of authenticity.
 
-Anyone an entrepreneur knows unless you have a pile of cashing lying around, you have to bootstrap everything. 
+I have discovered that without knowing your brand identity, your user experience will fall flat. If you are confused about your brand identity, your communication does not connect with your customers. 
 
-The rabbit hole of coding started with my desire to build online courses. First, I had to learn LMS, configure third-party apps for my projects, and discovered I had a knack for it. Fortunately, I was red-pilled into the Matrix when I needed a website created, and the programmer built it and disappeared. At first, it was a shock, anger, and once I "cooled my jets," I started looking for people to help me tweak my website, but I found myself frustrated because I couldn't find someone who could express my vision. 
+My mission is to transform uninspired brands into a friendly, personable company so that your users will have great experiences with your business.
 
-Now I was convinced that I had to do it myself, so in 2015 I decided that learning some design and the basics of CSS and HTML would empower me and help create what I envisioned. It was like magic to me and felt so empowering. 
+My process While I can design and code your website to build beautiful designs, create illustrations to enhance your users' experience of your brand. 
 
-My studies started with stumbling upon UI design principles through an online course and started implementing what I learned to my W.P. site. 
-The death blow to my motivational speaking happened in 2020. But, unfortunately, my story isn't unique as the whole world came to a screeching halt covid.
-I did some soul searching about how financially since my speaking business was shut down. I would provide for my family.
-2020 was enlightening to me. 
+My process starts from the inside out. I help you clarify business goals and help your company draw out your unique voice and message. Then I do a deep dive into your users' worlds and their needs, wants, and pains.
 
-I had several friends who knew I built websites with W.P. and asked if I ever thought about broadening my skill set and learned how to code. 
-At first, I had my reservations, but what do I have to lose? So I approached this as a full-time job and immersed myself into this world deeper. What would be the worst thing that could happen? I can add another skill set to my toolbelt.
+My past work experiences make me the designer and the man I am today. Over the past eight years, I have been a full-time entrepreneur. I have been speaking full-time, creating workshops, coaching creative entrepreneurs, and developing online courses since 2013.
 
-I have a friend who was a developer who "took me under his wing," and after 300 hours of working one-on-one, I discovered that my brain enjoyed the workout. In addition, I found that coding was an extension of my creativity.
+I have studied business, branding, advertising, design, copywriting, illustration, front-end development. I stumbled upon UX in 2018, and its field opened my eyes to the possibilities for my customers.
 
-I love being able to do full-stack development in designing a UI or developing solutions on the backend. 
+From that point on, I used what I learned to shape the future of my company and my life. From this foundation, I can help you design and build your website, build out your design system to ensure a great user experience with your products and services.
 
-If you are looking for a developer for your company with my skill set or need some help on your project, let's set up a call and see if we would be a good fit. Email me at rdarbyslaton@gmail.com.
+Feel free to reach out to me. I would love to connect.
 
 
 
