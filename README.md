@@ -1,4 +1,10 @@
 
+
+![Hi, I'm Darby](https://user-images.githubusercontent.com/75176444/140411254-6d785b81-af88-4127-ba62-e638f5b6481e.png)
+
+
+
+
 ### Hi there, I'm Rich - aka [Darby] 
 
 ### I'm a Husband, UX/UI designer-developer, who loves developing design & branding systems 
