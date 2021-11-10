@@ -4,7 +4,7 @@
 
 ### I'm a Husband, UX/UI designer-developer, who loves developing design & branding systems 
 
-- 🔭 I’m currently working on finding a tech company/design agency that shares the same values as I.
+- 🔭 I’m working with a company called Digital Whale
 - 🌱 I’m currently studying ui development
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute to Open Source projects
